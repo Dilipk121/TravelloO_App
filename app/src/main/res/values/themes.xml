@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TravelloOApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+    <style name="Theme.TravelloOApp" parent="Base.Theme.TravelloOApp" />
+
+
+    <style name="Base.Theme.TravelloOApp_theme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+    <style name="Theme.TravelloOApp_theme" parent="Base.Theme.TravelloOApp_theme" />
+</resources>

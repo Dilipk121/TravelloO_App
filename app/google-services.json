@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64181449467",
+    "project_id": "travelloo-app",
+    "storage_bucket": "travelloo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64181449467:android:8283731354fd8c026f765e",
+        "android_client_info": {
+          "package_name": "com.mine.travellooapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJpwIArnhMvj4pdbHvjozJ4ab6Kkxie-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
