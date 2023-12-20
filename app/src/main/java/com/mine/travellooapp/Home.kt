@@ -3,6 +3,7 @@ package com.mine.travellooapp
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Toast
 import com.google.firebase.auth.FirebaseAuth
 import com.mine.travellooapp.databinding.ActivityHomeBinding
 
@@ -24,6 +25,7 @@ class Home : AppCompatActivity() {
 
             auth_home = FirebaseAuth.getInstance()
             auth_home.signOut()
+            Toast.makeText(this, "Sign-out Successfully!", Toast.LENGTH_SHORT).show()
             startActivity(Intent(this,Login_Signup::class.java))
             finish()
 
