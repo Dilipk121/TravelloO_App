@@ -15,11 +15,5 @@ class NotesApplication : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding_notes.root)
 
-
-<<<<<<< HEAD
-=======
-updated
-
->>>>>>> a68a6aa (updated)
     }
 }
