@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TravelloO</string>
+    <string name="welcome_to_home">Welcome To Home</string>
+    <string name="note_s_application">Note\'s Application</string>
+    <string name="open_all_notes">Open All Notes</string>
+    <string name="create_new_notes">Create New Notes</string>
 </resources>
