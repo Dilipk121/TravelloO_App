@@ -13,6 +13,9 @@
         android:theme="@style/Theme.TravelloOApp"
         tools:targetApi="31">
         <activity
+            android:name=".CreateNewNotes"
+            android:exported="false" />
+        <activity
             android:name=".NotesApplication"
             android:exported="false" />
         <activity

@@ -31,6 +31,11 @@ class Home : AppCompatActivity() {
 
         }
 
+        binding_home.notesApps.setOnClickListener{
+
+            startActivity(Intent(this,NotesApplication::class.java))
+        }
+
 
 
 
